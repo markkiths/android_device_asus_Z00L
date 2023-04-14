@@ -1,5 +1,2 @@
 # Carrier
 ro.product.carrier=US-ASUS_Z00L-WW_Z00L
-
-# Display
-ro.sf.lcd_density=280
